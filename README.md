@@ -1,7 +1,7 @@
-# Programação Concorrente (CC3040)
-Neste repositório está o código relativo à Unidade Curricular de Programação Concorrente do Ano Letivo 2022/2023 - DCC/FCUP.
+# Concurrent Programming (CC3040)
+This repository contains the code for Concurrent Programming Course Unit of 2022/2023 Academic Year - DCC/FCUP.
 
-| Diretório    | Descrição |
+| Folder    | Description |
 | :----------- | :-----------------------------------------------------------------------------------------|
-| Exemplos de Código  | Código fonte disponibilizado para teste |
-| Práticas  | Resoluções dos exercícios das aulas práticas |
+| Code Examples  | Source code given to test |
+| Lab Classes  | Resolutions of the lab classes exercises |
